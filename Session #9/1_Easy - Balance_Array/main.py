@@ -30,6 +30,6 @@ Examples:
 
 
 ## TODO: Implement the balanced_array function below
-def balanced_Array(input_list: list[int]) -> bool:
+def balancedArray(input_list: list[int]) -> bool:
     pass
 
