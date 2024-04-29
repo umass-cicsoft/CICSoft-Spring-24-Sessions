@@ -1,12 +1,12 @@
 """
 Medium Problem:
-Alice and Bob plays a game. They were given 'x' zeros, 'y' ones, 'z' twos, and 't' fours. 
+Alice and Bob plays a game. They were given 'x' ones, 'y' twos, 'z' threes, and 't' fours. 
 Each round, they are also given 3 coins, initially facing head. 
 In each round, if the i^th bit of a number is 1, then they flip the i^th coin once. 
 Bob wins if and only if all the three coins remain heads. 
 
 After each round, Bob remove one of the four numbers. 
-For example, if Bob decides to remove a 4, then they begin next round with 'x' zeros, 'y' ones, 'z' twos, and 't-1' fours. 
+For example, if Bob decides to remove a 4, then they begin next round with 'x' ones, 'y' twos, 'z' threes, and 't-1' fours. 
 Assume both players are perfect logicians, what is the maximum number of rounds that Bob can win?
 
 Example 1:
