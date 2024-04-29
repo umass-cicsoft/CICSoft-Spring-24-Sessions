@@ -14,9 +14,9 @@ Constraints:
 
 Examples:
     Example 1:
-        Input: nums = [1, 2, 3, 3]
+        Input: nums = [1, 2, 3, 0]
         Output: true
-        Explanation: The array can be split into [1, 2] and [3, 3], where both parts sum to 5.
+        Explanation: The array can be split into [1, 2] and [3, 0], where both parts sum to 3.
     Example 2:
         Input: nums = [2, 3, 1, 2, 3, 1]
         Output: true
