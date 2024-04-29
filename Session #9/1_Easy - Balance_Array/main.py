@@ -27,13 +27,9 @@ Examples:
         Explanation: There is no way to split the array into two parts with equal sums.
 """
 
-input_list = []
-input_len = int(input())
-for _ in range(input_len):
-    input_list.append(int(input()))
+
 
 ## TODO: Implement the balanced_array function below
-def balanced_array(input_list: list[int]) -> bool:
+def balanced_Array(input_list: list[int]) -> bool:
     pass
 
-print(balanced_array(input_list))
